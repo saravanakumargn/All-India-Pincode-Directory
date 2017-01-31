@@ -1,4 +1,11 @@
-# All-India-Pincode-Directory
+# All india pincode directory datas
+----
+Here you can download india pincode directoy datas in json, xml, sql, csv and excel format. This details are updatted with pincodes along with Contact Details.
+
+Goto [All-India-Pincode-Directory](https://github.com/saravanakumargn/All-India-Pincode-Directory)
+
+----
+## Example formats
 
 ### SQL Format ###
 ~~~sql
@@ -238,3 +245,7 @@ INSERT INTO allindiapincode (officename, pincode, officeType, Deliverystatus, di
   </ROW>
 </ROWSET>  
 ~~~
+
+----
+## Thanks
+* [Open Government Data (OGD) Platform India](https://data.gov.in/)
